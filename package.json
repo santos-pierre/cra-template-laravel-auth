@@ -1,6 +1,6 @@
 {
   "name": "cra-template-laravel-auth",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "ReactSPA Template for [LaravelReactSPA](https://laravelreactspa.santospierre.com)",
   "main": "index.js",
   "scripts": {
